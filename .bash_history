@@ -29,3 +29,44 @@ git init
 git remote add origin https://github.com/priya-ec-apps/amazon
 ls
 git log -2
+git version
+git config --list
+git push origin https://github.com/priya-ec-apps/amazon
+git pull origin https://github.com/priya-ec-apps/amazon
+git pull https://github.com/priya-ec-apps/amazon
+ls
+git status
+git show feeec8b09f0404e606a1ae38e03dbfe99e7343be
+clear
+cd
+git status
+touch .project
+touch .classpath
+touch .settings
+mkdir node-=
+mkdir node
+mkdir node-modules
+git status
+touch node -modules/test.txt
+touch node-modules/test.txt
+git status
+vi .gitignore
+git status
+git add .
+git commit -m 
+git commit -m "added git ignore file"
+git push 
+git push https://github.com/priya-ec-apps/amazon
+git status
+yum install git -
+cd amazon
+yum install git -y
+git version
+clear
+git status
+cd amazon
+git version
+cd ~
+cd amazon
+clear
+vi .gitignore
